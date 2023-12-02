@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+.header
+{
+    background-color: rosybrown;
+
+}
+.header a
+{
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    float: inline-end;
+    background-color: cornsilk;
+    margin: 2px;
+}
