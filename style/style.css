@@ -37,3 +37,14 @@
     color: rgb(222, 110, 110);
     font-size: 30px;
 }
+.content .photo {
+    height: 200px;
+    width: 200px;
+    margin-inline: auto;
+}
+.content .photo img {
+    height: inherit;
+    width: inherit;
+    border-radius: 50%;
+    display: inline-block;
+}
