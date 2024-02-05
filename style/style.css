@@ -24,12 +24,16 @@
 }
 .content
 {
-    margin: 20%;
+    margin: 5%;
 }
 
 .content p 
 {
     font-size: 26px;
+}
+.content li
+{
+    padding: 10px;
 }
 .content .name
 {
