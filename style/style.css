@@ -41,6 +41,11 @@
     color: rgb(222, 110, 110);
     font-size: 30px;
 }
+.content h1, h2 u
+{
+    color: rgb(214, 36, 214);
+    padding: 5px;
+}
 .content .photo {
     height: 200px;
     width: 200px;
