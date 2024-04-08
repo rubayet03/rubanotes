@@ -22,6 +22,13 @@
     border-radius: 30%;
     margin-inline: 10px;
 }
+.main-content
+{
+
+    margin: 1%;
+    text-align: center;
+    padding: 10px;
+}
 .content
 {
     margin: 5%;
